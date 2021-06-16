@@ -1,7 +1,7 @@
 # INTELIGENCIA ARTIFICIAL
 ## Jorge R. Godinez B. - 201020588
 
-[Reflex agent](https://luisespino.github.io/artificial_intelligence_js/01_reflex_agent.html)
+[Reflex agent](https://georgeno1ukno.github.io/IA1_201020588/AgenteInteligente/01_reflex_agent.html)
 
 [Breadth and Depth Search](https://luisespino.github.io/artificial_intelligence_js/02_breadth_depth_search.html)
 
