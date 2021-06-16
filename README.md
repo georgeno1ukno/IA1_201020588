@@ -6,7 +6,7 @@
 
 ### Tarea 2
 Certificados Sololearn 
-[Python](https://github.com/georgeno1ukno/IA1_201020588/blob/main/Certificados/cert-20901012-1024.pdf) [JavaScript](https://github.com/georgeno1ukno/IA1_201020588/blob/main/Certificados/cert-20901012-1024.pdf)
+[Python](https://georgeno1ukno.github.io/IA1_201020588/Certificados/cert-20901012-1024.pdf) [JavaScript](https://georgeno1ukno.github.io/IA1_201020588/Certificados/cert-20901012-1024.pdf)
 
 [Uniform Cost Search](https://luisespino.github.io/artificial_intelligence_js/03_uniform_cost.html)
 
