@@ -9,7 +9,7 @@ Certificados Sololearn [Python](https://georgeno1ukno.github.io/IA1_201020588/Ce
 
 
 ### Tarea 3
-[Problema del Viajera por Costo Uniforme](https://luisespino.github.io/artificial_intelligence_js/03_uniform_cost.html)
+[Problema del Viajero por Costo Uniforme](https://georgeno1ukno.github.io/IA1_201020588/ProblemaViajero/201020588.pdf)
 
 [Best First Search](https://luisespino.github.io/artificial_intelligence_js/04_bestfirst.html)
 
