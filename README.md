@@ -5,10 +5,11 @@
 [Tarea Reflex Agent](https://georgeno1ukno.github.io/IA1_201020588/AgenteInteligente/01_reflex_agent.html)
 
 ### Tarea 2
-Certificados Sololearn 
-[Python](https://georgeno1ukno.github.io/IA1_201020588/Certificados/cert-20901012-1024.pdf) [JavaScript](https://georgeno1ukno.github.io/IA1_201020588/Certificados/cert-20901012-1024.pdf)
+Certificados Sololearn [Python](https://georgeno1ukno.github.io/IA1_201020588/Certificados/cert-20901012-1024.pdf) [JavaScript](https://georgeno1ukno.github.io/IA1_201020588/Certificados/cert-20901012-1024.pdf)
 
-[Uniform Cost Search](https://luisespino.github.io/artificial_intelligence_js/03_uniform_cost.html)
+
+### Tarea 3
+[Problema del Viajera por Costo Uniforme](https://luisespino.github.io/artificial_intelligence_js/03_uniform_cost.html)
 
 [Best First Search](https://luisespino.github.io/artificial_intelligence_js/04_bestfirst.html)
 
