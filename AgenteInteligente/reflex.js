@@ -3,40 +3,11 @@
 /*
 This code is based of the code in the Github repository of MSC. Luis Espino.
 Professor of the University "San Carlos de Guatemala"
-Edited by Henry Galvez.
+
 */
 var stados=[];
 var visitados=0;
 
-var t_states = {
-	count: 0,
-	states: [
-		{
-			location: "A", room_A: "DIRTY", room_B: "DIRTY", visited: false
-		},
-		{
-			location: "B", room_A: "DIRTY", room_B: "DIRTY", visited: false
-		},
-		{
-			location: "A", room_A: "CLEAR", room_B: "DIRTY", visited: false
-		},
-		{
-			location: "B", room_A: "CLEAR", room_B: "DIRTY", visited: false
-		},
-		{
-			location: "A", room_A: "DIRTY", room_B: "CLEAR", visited: false
-		},
-		{
-			location: "B", room_A: "DIRTY", room_B: "CLEAR", visited: false
-		},
-		{
-			location: "A", room_A: "CLEAR", room_B: "CLEAR", visited: false
-		},
-		{
-			location: "B", room_A: "CLEAR", room_B: "CLEAR", visited: false
-		},
-	]
-}
 
 var timeout;
 
@@ -74,7 +45,7 @@ function test(states) {
 		r<5? states[2]="DIRTY": states[2]="CLEAN"
 	}
 	printStates();
-	if(t_states.count>=8){
+	if(stados.length>=8){
 		clearTimeout(timeout)
 		return;
 	}
@@ -114,18 +85,6 @@ function validateVisitedStates(states) {
         }
 
     }
-    
-
-
-
-	if (states[0] == "A" && states[1] == "DIRTY" && states[2] == "DIRTY" && t_states.states[0].visited == false) { t_states.states[0].visited = true; t_states.count++; }
-	else if (states[0] == "B" && states[1] == "DIRTY" && states[2] == "DIRTY" &&  t_states.states[1].visited == false) { t_states.states[1].visited = true; t_states.count++; }
-	else if (states[0] == "A" && states[1] == "CLEAN" && states[2] == "DIRTY" && t_states.states[2].visited == false) { t_states.states[2].visited = true; t_states.count++; }
-	else if (states[0] == "B" && states[1] == "CLEAN" && states[2] == "DIRTY" && t_states.states[3].visited == false) { t_states.states[3].visited = true; t_states.count++; }
-	else if (states[0] == "A" && states[1] == "DIRTY" && states[2] == "CLEAN" && t_states.states[4].visited == false) { t_states.states[4].visited = true; t_states.count++; }
-	else if (states[0] == "B" && states[1] == "DIRTY" && states[2] == "CLEAN" && t_states.states[5].visited == false) { t_states.states[5].visited = true; t_states.count++; }
-	else if (states[0] == "A" && states[1] == "CLEAN" && states[2] == "CLEAN" && t_states.states[6].visited == false) { t_states.states[6].visited = true; t_states.count++; }
-	else if (states[0] == "B" && states[1] == "CLEAN" && states[2] == "CLEAN" && t_states.states[7].visited == false) { t_states.states[7].visited = true; t_states.count++; }
 }
 
 function getRandomInt(min, max) {
