@@ -11,6 +11,9 @@ Certificados Sololearn [Python](https://georgeno1ukno.github.io/IA1_201020588/Ce
 ### Tarea 3
 [Problema del Viajero por Costo Uniforme](https://georgeno1ukno.github.io/IA1_201020588/ProblemaViajero/201020588.pdf)
 
+### Proyecto1
+[Proyecto1](https://georgeno1ukno.github.io/IA1_201020588/Proyecto1/Reversi.html)
+
 [Best First Search](https://luisespino.github.io/artificial_intelligence_js/04_bestfirst.html)
 
 [AStar Search](https://luisespino.github.io/artificial_intelligence_js/05_astar.html)
