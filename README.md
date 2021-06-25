@@ -12,7 +12,12 @@ Certificados Sololearn [Python](https://georgeno1ukno.github.io/IA1_201020588/Ce
 [Problema del Viajero por Costo Uniforme](https://georgeno1ukno.github.io/IA1_201020588/ProblemaViajero/201020588.pdf)
 
 ### Proyecto1
-[Proyecto1](https://georgeno1ukno.github.io/IA1_201020588/Proyecto1/Reversi.html)
+Proyecto alojado en Server Heroku, https://proy1ia201020588.herokuapp.com/reversi 
+
+Proyecto 1  en [GitHub Pages](https://georgeno1ukno.github.io/IA1_201020588/Proyecto1/Reversi.html)
+
+Repositorio General en [GitHub](https://github.com/georgeno1ukno/IA1_201020588)
+
 
 [Best First Search](https://luisespino.github.io/artificial_intelligence_js/04_bestfirst.html)
 
