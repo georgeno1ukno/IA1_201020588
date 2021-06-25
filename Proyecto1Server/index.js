@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000
 
 app.get('/reversi', function (req, res) {
-    console.log("=========================================================================================================================")
+    console.log("===============Reversi_201020588========================")
     console.log(req.query)
     res.send(principal.principal(req.query.estado,req.query.turno));
 });
